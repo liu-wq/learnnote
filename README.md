@@ -1,2 +1,2 @@
 # learnnote
-bioinformatics
+Bioinformatics
